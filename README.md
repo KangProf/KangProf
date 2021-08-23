@@ -37,6 +37,8 @@
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=KangProf&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KangProf&theme=dark&hide_border=true" width = 400>
+</p>
 
 ### Languages
 
