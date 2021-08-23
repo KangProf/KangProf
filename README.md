@@ -84,3 +84,6 @@
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
 
+
+<!-- Gambar apa pun disejajarkan ke kanan. Hati-hati lebarnya -->
+<img lebar="55%" align="kanan" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
