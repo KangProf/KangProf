@@ -1,4 +1,10 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Profesor Acc
+### Hi Doo Loor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
+U wish a does do wrong?
+Next do wrong a does. A does the seek,
+Been she gear & awake is so she had,
+& or a die crew booty smooth 
+Lhan law leer, tour or a key cut.
 <br>
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
