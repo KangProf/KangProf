@@ -1,5 +1,7 @@
 ## Hi Doo Loor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
- 
+
+<img src="https://img.shields.io/badge/MY GITHUB-WELCOME-76B900?style=for-the-badge&logo=github&logoColor=white" /> 
+
 ``` 
 
   U wish a does do wrong?
