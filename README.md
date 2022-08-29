@@ -11,7 +11,7 @@
   law leer, tour or a key cut
     
 ```
-
+![](https://komarev.com/ghpvc/?username=KangProf&color=red)
 <br>
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
